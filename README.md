@@ -49,7 +49,7 @@ Estou no curso de Informática para Internet.
 Escreva um programa Python que exiba na tela as seguintes cinco linhas:
 ```
 *** Cardápio ***
-1. Pizza
+1. *** Cardápio ***
 2. Hambúrguer
 3. Suco
 *** Bom apetite! ***

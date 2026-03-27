@@ -1,0 +1,8 @@
+n1=int(1)
+n2=int(2)
+n3=int(3)
+n4=int(4)
+soma=(n1+n2+n3+n4)
+print(soma)
+produto=(n1*n2*n3*n4)
+print(produto)
